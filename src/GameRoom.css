@@ -1,0 +1,23 @@
+/* styles.css */
+
+.game-room {
+    text-align: center;
+  }
+  
+  .players {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .player {
+    margin: 20px;
+  }
+  
+  .choices {
+    margin-top: 10px;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
